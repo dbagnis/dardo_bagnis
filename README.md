@@ -22,10 +22,20 @@ Especialmente interesado en el desarrollo, instalacion y mantenimiento de harwar
 
 <br>
 ## ⚡ Tecnologías más usadas
+![Static Badge](https://img.shields.io/badge/ESP8266-red)
+![Static Badge](https://img.shields.io/badge/ESP32-green)
+![Static Badge](https://img.shields.io/badge/HB100-blue)
+![Static Badge](https://img.shields.io/badge/RCWL1605-yellow)
+![Static Badge](https://img.shields.io/badge/DHT11-cyan)
+
+
+
+
+
 ESP8266, ESP32, HB100, RCWL1605, DHT11
 ### 🚀 Lenguajes
 
-
+![Static Badge](https://img.shields.io/badge/Arduino-dava)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
