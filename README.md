@@ -14,16 +14,16 @@ Especialmente interesado en el desarrollo, instalacion y mantenimiento de harwar
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igijoninf@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/InmaculadaGijn1)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igijon.netlify.app/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w](https://www.youtube.com/channel/UCz6RLmp_f8CXGhGX5UXCG5w))
+
+[![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://igijon.netlify.app/](https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))
 
 
 ## Despliegues
 
-[![WebPersonal](https://img.shields.io/badge/Web_Personal-pink?style=for-the-badge&logo=About.me&logoColor=black)](https://igijon.netlify.app/)
-[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igijon/igijon) 
-[![NetlifyPersonal](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
+[![Linkedinl](https://img.shields.io/badge/Web_Personal-pink?style=for-the-badge&logo=About.me&logoColor=black)]([https://igijon.netlify.app/](https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))
+[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/igijon/igijon](https://github.com/dbagnis.git) 
+
 <br>
 
 [![WebDepartamento](https://img.shields.io/badge/Web_Departamento-green?style=for-the-badge&logo=About.me&logoColor=white)](https://informaticacifpvg.netlify.app/)
