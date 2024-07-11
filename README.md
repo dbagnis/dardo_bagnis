@@ -23,9 +23,13 @@ Especialmente interesado en el desarrollo, instalacion y mantenimiento de harwar
 <br>
 ## ⚡ Tecnologías más usadas
 ![Static Badge](https://img.shields.io/badge/ESP8266-red)
+
 ![Static Badge](https://img.shields.io/badge/ESP32-green)
+
 ![Static Badge](https://img.shields.io/badge/HB100-blue)
+
 ![Static Badge](https://img.shields.io/badge/RCWL1605-yellow)
+
 ![Static Badge](https://img.shields.io/badge/DHT11-cyan)
 
 
