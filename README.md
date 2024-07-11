@@ -13,10 +13,10 @@ Especialmente interesado en el desarrollo, instalacion y mantenimiento de harwar
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igijoninf@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w](https://www.youtube.com/channel/UCz6RLmp_f8CXGhGX5UXCG5w))
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbagnis@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([[https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w](https://www.youtube.com/channel/UCz6RLmp_f8CXGhGX5UXCG5w](https://youtube.com/@dbagnis?si=DaqCPXiMxcGusQVF)))
 
-[![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://igijon.netlify.app/](https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))
+[![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([(https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))]
 
 
 ## Despliegues
