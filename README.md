@@ -19,19 +19,10 @@ Especialmente interesado en el desarrollo, instalacion y mantenimiento de harwar
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([(https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))]
 
 
-## Despliegues
-
-[![Linkedinl](https://img.shields.io/badge/Web_Personal-pink?style=for-the-badge&logo=About.me&logoColor=black)]([https://igijon.netlify.app/](https://www.linkedin.com/in/dardo-david-bagnis-0b1b745b/?originalSubdomain=ar))
-[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/igijon/igijon](https://github.com/dbagnis.git) 
 
 <br>
-
-[![WebDepartamento](https://img.shields.io/badge/Web_Departamento-green?style=for-the-badge&logo=About.me&logoColor=white)](https://informaticacifpvg.netlify.app/)
-[![GithubDepartamento](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CIFP-Virgen-de-Gracia/inf_com_dep_CIFP_VG) 
-[![NetlifyDepartamento](https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status)](https://app.netlify.com/sites/informaticacifpvg/deploys)
-
 ## ⚡ Tecnologías más usadas
-
+ESP8266, ESP32, HB100, RCWL1605, DHT11
 ### 🚀 Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
